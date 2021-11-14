@@ -1,0 +1,5 @@
+baseURL = 'https://musenaw.github.io/'
+languageCode = 'en-us'
+title = 'musenaws blog'
+theme = "ananke"
+publishDir = "."
