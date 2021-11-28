@@ -1,6 +1,7 @@
 ---
 title: "My First Stone"
 date: 2021-11-14T20:23:23+01:00
+tags: ["notdev"]
 draft: false
 ---
 
