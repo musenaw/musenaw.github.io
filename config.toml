@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = "musenaw's blog"
 theme = "PaperMod"
 publishDir = "."
+absLangURL = 'https://musenaw.github.io/'
 [taxonomies]
   category = 'categories'
   tag = 'tags'
