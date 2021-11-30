@@ -1,7 +1,7 @@
 baseURL = 'https://musenaw.github.io/'
 languageCode = 'en-us'
 title = "musenaw's blog"
-theme = "ananke"
+theme = "PaperMod"
 publishDir = "."
 [taxonomies]
   category = 'categories'
