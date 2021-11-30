@@ -6,13 +6,31 @@
     <description>Recent content in notdev on musenaw&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 20:23:23 +0100</lastBuildDate><atom:link href="/tags/notdev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 20:23:23 +0100</lastBuildDate><atom:link href="/tags/notdev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Stone</title>
       <link>/posts/my-first-stone/</link>
-      <pubDate>Sun, 14 Nov 2021 20:23:23 +0100</pubDate>
+      <pubDate>Tue, 16 Nov 2021 20:23:23 +0100</pubDate>
       
       <guid>/posts/my-first-stone/</guid>
+      <description>Who am I? I&amp;rsquo;m a developer who likes to learn and create (yeah&amp;hellip; a mainstream one). I&amp;rsquo;am always thinking about to write, share and build in public but never do, sooo this is my first stone for it!</description>
+    </item>
+    
+    <item>
+      <title>My aane</title>
+      <link>/posts/my-first-stone-copy/</link>
+      <pubDate>Mon, 15 Nov 2021 20:23:23 +0100</pubDate>
+      
+      <guid>/posts/my-first-stone-copy/</guid>
+      <description>Who am I? I&amp;rsquo;m a developer who likes to learn and create (yeah&amp;hellip; a mainstream one). I&amp;rsquo;am always thinking about to write, share and build in public but never do, sooo this is my first stone for it!</description>
+    </item>
+    
+    <item>
+      <title>My First Stoooone</title>
+      <link>/posts/my-first-stone-copy-2/</link>
+      <pubDate>Sun, 14 Nov 2021 20:23:23 +0100</pubDate>
+      
+      <guid>/posts/my-first-stone-copy-2/</guid>
       <description>Who am I? I&amp;rsquo;m a developer who likes to learn and create (yeah&amp;hellip; a mainstream one). I&amp;rsquo;am always thinking about to write, share and build in public but never do, sooo this is my first stone for it!</description>
     </item>
     
